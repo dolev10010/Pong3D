@@ -1,0 +1,17 @@
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio specific
+*.csproj
+*.sln
+.vsconfig
+.vs/
+
+# Crash logs
+.crash/
+
