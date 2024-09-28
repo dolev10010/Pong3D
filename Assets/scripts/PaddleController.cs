@@ -13,8 +13,8 @@ public class PaddleController : MonoBehaviour
     {
         // Calculate paddle boundaries
         paddleHeight = GetComponent<Collider>().bounds.size.y / 2;
-        minY = -5.9f + paddleHeight;  // Adjust based on walls
-        maxY = 5.9f - paddleHeight;   // Adjust based on walls
+        minY = -5.6f + paddleHeight;  // Adjust based on walls
+        maxY = 5.6f - paddleHeight;   // Adjust based on walls
     }
 
     // Update method for paddle movement, kept private since it's automatic in Unity
