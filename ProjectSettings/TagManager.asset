@@ -9,6 +9,7 @@ TagManager:
   - Paddle
   - Obstacle
   - Wall
+  - Ball
   layers:
   - Default
   - TransparentFX
